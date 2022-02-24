@@ -1,0 +1,6 @@
+# ignore ALL files in ANY directory named temp
+app/node_modules
+client/
+localnet/
+Makefile
+README.md
